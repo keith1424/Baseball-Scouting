@@ -1,1 +1,1 @@
-{ "compilerOptions": { "strict": false, "skipLibCheck": true } }
+{ "compilerOptions": { "strict": false, "skipLibCheck": true, "noEmit": true }, "exclude": ["node_modules"] }
